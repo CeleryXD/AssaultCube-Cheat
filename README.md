@@ -1,5 +1,6 @@
 # AssaultCube-Cheat
 A extrememly bad assault cube cheat I made for fun!.
+Works only for Assault Cube 1.3.0.2 which is the current latest version as of february 2026
 
 # Tutorial!:
 First install python from: 
